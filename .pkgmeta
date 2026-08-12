@@ -1,0 +1,8 @@
+package-as: NDui_AbsorbOverlay
+
+ignore:
+  - README.md
+  - Media/AbsorbDash.png
+  - Media/CurseForge_Logo.png
+
+manual-changelog: CHANGELOG.md

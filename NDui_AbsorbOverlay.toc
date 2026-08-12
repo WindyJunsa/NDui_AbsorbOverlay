@@ -1,0 +1,9 @@
+## Interface: 120007
+## Title: |cff0080ffNDui|r Absorb Overlay
+## Notes: Plater-style absorb overlay on NDui raid/party frames
+## Notes-zhCN: 在 NDui 团队/小队血条上以虚线叠层显示护盾量（满血可见）
+## Author: huziqian
+## Version: 12.1
+## Dependencies: NDui
+
+Core.lua
